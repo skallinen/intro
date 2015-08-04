@@ -212,7 +212,7 @@ Media har bättre förutsättningar än andra att lyckas med detta i och med den
 <br />
 <br />
 <br />
-[Klicka här för källkoden till presentationen](http://github.com/skallinen)
+[Klicka här för källkoden till presentationen](https://github.com/skallinen/intro/tree/gh-pages)
 
 
 --- x:0 y:52000 z:50000
